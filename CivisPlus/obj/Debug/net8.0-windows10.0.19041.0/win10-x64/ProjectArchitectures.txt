@@ -1,0 +1,1 @@
+C:\Projetos\.NET\Civis+\CivisPlus\CivisPlus.csproj;x64
